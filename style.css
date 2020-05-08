@@ -1,0 +1,976 @@
+ header{
+ display : inline-block; 
+     height: 60px;
+    width: 100%;
+    background-color: cornflowerblue;
+    
+}
+
+
+img{
+
+
+    display : inline-block;
+    cursor: pointer;
+    width: 27px;
+    height: 25px;
+    
+}
+
+td{
+    padding-top: 18px;
+    padding-left: 9px;
+
+}
+.one{
+    font-weight: bold;
+    color: white;
+    padding-left: 115px;
+}
+.two{
+    padding-left: 185px;
+
+}
+button{
+    
+    cursor: pointer;
+   
+}
+
+.first{
+    position: relative;
+    width: 100%;
+    height: 90px;
+    background-color: white;
+
+}
+.second{display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 7px;
+    width: 63%;
+    height: 90px;
+    background-color:white;
+    margin: 2px;
+
+}
+.third{
+    display: inline-block;
+left:0;
+top: 1px;
+position: absolute;
+    width: 36%;
+height: 90px;
+
+    background-color: white;
+}
+.thirdimg{
+    width: 83%;
+    height: 73px;
+    padding-left: 70px;
+
+}
+
+.dropdown{
+    /* margin-right: 0px; */
+display: inline-block;
+margin-top: 50px;
+margin: 3.5px;
+
+
+}
+.btn:hover{
+    color: white;
+    background-color: cornflowerblue;
+}
+.dropdown-item:hover{
+    background-color:  cornflowerblue;
+}
+#top{
+   background-color:cornflowerblue ;
+   color: white;
+   
+
+}
+
+.d-block{
+    height: 500px;
+}
+.marquee{
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height:29px;
+    color: white;
+    background-color:cornflowerblue ;
+
+}
+.intro{
+    margin-top: 40px;
+    text-align:center;
+    margin-left: 15%;
+    margin-right: 15%;
+    color : grey;
+}
+h1{
+    font-weight: bold;
+    color:blue;
+}
+span{ font-weight: bold;
+    color:green;
+}
+
+.logopic{
+    height: 20%;
+    width: 5%;
+}
+.head{
+    color: green;
+}
+.foodie{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-color:cornflowerblue ;
+}
+.spoon{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 70px;
+    width: 270px ;
+    height:200px ;
+    background-color:cornflowerblue;
+}
+.family{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 380px;
+    width: 270px ;
+    height:200px ;
+    background-color:cornflowerblue;
+}
+.doctor{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 690px;
+    width: 270px ;
+    height:200px ;
+    background-color:cornflowerblue;
+}
+.degree{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 1000px;
+    width: 270px ;
+    height:200px ;
+    background-color:cornflowerblue;
+}
+
+ .fourpics{
+padding-top: 20px;
+padding-left: 90px;
+    width: 170px;
+    height: 70px;
+    
+    
+} 
+.number{
+    color:white;
+    width: 50px;
+    font-style: italic;
+   
+    padding-left: 55px;
+    padding-top: 15px;
+}
+.number1{
+    color:white;
+    padding-left: 7px;
+    
+
+}
+.number2{
+    color:white;
+    width: 50px;
+    font-style: italic;
+   
+    padding-left: 81px;
+    padding-top: 15px;
+}
+.number3{
+    color:white;
+    width: 50px;
+    font-style: italic;
+   
+    padding-left: 70px;
+    padding-top: 15px;
+
+}
+.number4{
+    color:white;
+    padding-left: 40px;
+
+
+}
+.doing{
+    position: relative;
+padding-top: 50px;
+    background-color: white;
+    width: 100%;
+    height: 760px;
+}
+.divone{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 90px;
+    width: 340px ;
+    height:200px ;
+    background-color: white;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+
+}
+
+.divtwo{position: absolute;
+    margin-top: 70px;
+    margin-left: 498px;
+    width: 340px ;
+    height:200px ;
+    background-color: white;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+}
+
+.divthree{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 900px;
+    width: 340px ;
+    height:200px ;
+    background-color: white;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+}
+.divfour{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 90px;
+    width: 340px ;
+    height:200px ;
+    background-color: white;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+}
+.divfive{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 498px;
+    width: 340px ;
+    height:200px ;
+    background-color: white;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+}
+
+.divsix{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 900px;
+    width: 340px ;
+    height:200px ;
+    background-color: white;
+    -moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+}
+.sixpics{
+     padding-top: 35px;
+    padding-left: 110px; 
+    height: 105px;
+    width: 212px;
+}
+.divone1{
+    color:blue ;
+    font-weight: bold;
+    padding-top: 30px;
+
+    padding-left: 100px;
+
+}
+.divone3{
+    color:blue ;
+    font-weight: bold;
+    padding-top: 30px;
+
+    padding-left: 120px;
+}
+.divone2{
+    color:blue ;
+    font-weight: bold;
+    padding-top: 30px;
+width: 50px;
+    padding-left: 128px;
+
+}
+.mission{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color:white;
+}
+.project{ position: relative;
+float: left;
+   
+    width: 60% ;
+    height: 400px;
+    background-color: white;
+
+}
+.projecttop{
+  padding-left: 65px;
+    font-weight: bold;
+    color: blue;
+}
+.events{ 
+
+    float : right;
+    width: 40%;
+    height: 400px;
+    background-color:white;
+}
+.projectdivone{
+    margin: 1px;
+    float:right;
+    margin-left: 450px;
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    background-color: lightgray;
+}
+.projectdivtwo{
+    float: left;
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    margin-left:80px ;
+        
+    background-color:lightgray;
+}
+.projectdivthree{
+    position: absolute;
+    margin-top: 124px;
+    width: 300px;
+    height: 90px;
+    margin-left: 80px;
+    background-color:lightgray;
+
+}
+.projectdivfour{
+    position: absolute;
+    margin-top: 124px;
+    width: 300px;
+    height: 90px;
+    margin-left: 450px;
+    background-color:lightgray;
+}
+.organimages{
+    padding-top: 20px;
+padding-left: 20px;
+    width: 80px;
+    height: 60px;
+}
+.hep
+{
+    width: 80px;
+    padding-top: 500px;
+    font-weight: bold;
+    color: blue;
+    padding-left: 40px ;
+    
+}
+.marque2{
+    margin-left: 50px;
+    width: 350px;
+    height: 250px;
+    background-color:white;
+}
+.detail{
+    color: blue;
+}
+.sph1{
+    padding-left: 30px;
+}
+.gallery
+{
+    margin-top: 90px;
+    width: 100%;
+    height: 470px;
+    background-color: white;
+}
+.rashanimg{
+    /* padding-left: 50px; */
+    width: 240px;
+    height: 150px;
+}
+.rashan{padding-left: 60px; 
+    width: 285px;
+    height: 150px;
+}
+.address{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color:black;
+}
+.leftdiv{
+    position: absolute;
+
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 70px;
+    height: 370px;
+    background-color:black;
+}
+.centerdiv{
+    position: absolute;
+    margin-top: 80px;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    margin-left: 550px;
+
+}
+.rightdiv{
+    position: absolute;
+    margin-top: 80px;
+    width: 300px;
+    height: 200px;
+    background-color:black;
+    margin-left:900px ;
+}
+.secondlast{
+    color: white;
+}
+.connect{
+    
+    display : inline-block;
+    cursor: pointer;
+    width: 27px;
+    height: 25px;
+    margin: 6px;
+}
+.foot{
+    width: 100%;
+    height: 55px;
+    background-color: cornflowerblue;
+}
+.footlast{
+    padding-left: 90px;
+    padding-top: 15px;
+    color: white;
+}
+.date{
+    color: green;
+    font-weight: bold;
+}
+
+@media only screen and (max-width:1024px){
+    td{
+        padding-top: 0px;
+    }
+    .one{
+
+        font-weight: bold;
+        padding-left: 100px;
+    }
+    .two{padding-top: 5px;
+        padding-left: 92px;
+    }
+    button{
+        font-size: smaller;
+        
+    }
+    .doctor{
+        margin-left: 70px;
+        margin-top: 370px;
+
+    }
+    .degree{
+        margin-left: 380px;
+        margin-top: 370px;
+}
+.foodie{
+    height: 600px;
+}
+
+.doing{
+    height: 970px;
+}
+
+.divthree{
+    margin-top: 555px;
+    margin-left: 90px;
+}
+.divsix{
+    
+    margin-top: 530px ;
+    margin-left: 498px;
+}
+
+.rightdiv{
+    width: auto;
+}
+.projectdivone{
+    margin-left: 80px;
+    margin-top: 108px;
+}
+.projectdivthree{
+    margin-left: 80px;
+    margin-top: 192px;
+}
+.projectdivfour{
+    margin-left: 80px;
+    margin-top: 300px;
+}
+.project{
+    height: 650px;
+}
+.events{
+    
+    height: 650px;
+}
+.gallery{
+    height: 700px;
+}
+
+}
+
+@media only screen and (max-width:1200px){
+
+    td{
+        padding-top: 0%;
+    }
+    .one{
+
+        font-weight: bold;
+        padding-left: 100px;
+    }
+    .two{padding-top: 5px;
+        padding-left: 92px;
+    }
+    button{
+        font-size: smaller;
+        
+    }
+    .doctor{
+        margin-left: 70px;
+        margin-top: 370px;
+
+    }
+    .family{
+        margin-left: 440px;
+    }
+    .degree{
+        margin-left: 440px;
+        margin-top: 370px;
+}
+.foodie{
+    height: 600px;
+}
+
+.doing{
+    height: 970px;
+}
+
+.divthree{
+    margin-top: 555px;
+    margin-left: 90px;
+}
+.divsix{
+    
+    margin-top: 530px ;
+    margin-left: 498px;
+}
+
+.rightdiv{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.projectdivone{
+    margin-left: 80px;
+    margin-top: 108px;
+}
+.projectdivthree{
+    margin-left: 80px;
+    margin-top: 192px;
+}
+.projectdivfour{
+    margin-left: 80px;
+    margin-top: 300px;
+}
+.project{
+    height: 650px;
+}
+.events{
+    
+    height: 650px;
+}
+}
+
+@media only screen and (max-width:600px){
+    header{
+        height: 90px;
+    }
+td{
+    padding-top: 5px;
+}
+.one{padding-left: 30px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.two{
+    padding-left: 30px;
+    font-size: small;
+    display: inline;
+
+}
+button{
+    display: inline-block;
+    font-size: small;
+}
+.second{
+    height: 190px;
+}
+.third{
+    
+    height: 190px;
+}
+.first{
+    height: 190px;
+}
+.thirdimg{
+    width: 89%;
+    padding-left: 19px;
+}
+.foodie{
+    height: 900px;
+}
+
+.family{
+    margin-left: 70px;
+    margin-top: 260px;
+}
+.doctor{
+    margin-left: 70px;
+    margin-top:450px ;
+}
+.degree{
+    margin-top:639px ;
+    margin-left: 70px;
+}
+.doing{
+    height: 1610px;
+}
+.divtwo{
+margin-left: 90px;
+margin-top:293px ;
+}
+.divthree{
+    margin-left: 90px;
+    margin-top: 515px;
+}
+.divfour{
+    margin-left: 90px;
+    margin-top: 713px;
+}
+.divfive{
+    margin-top: 934px;
+    margin-left: 90px;
+}
+.divsix{
+    margin-left: 90px;
+    margin-top: 1155px;
+}
+
+.projectdivone{
+    margin-left: 60px;
+width: 270px;
+}
+
+.projectdivtwo{
+    margin-left: 60px;
+    width: 270px;
+}
+
+.projectdivthree{
+    margin-left: 60px;
+    width: 270px;
+}
+
+.projectdivfour{
+    margin-left: 60px;
+    width: 270px;
+}
+
+.marque2{
+    width: auto;
+}
+
+.gallery{
+    height: 800px;
+
+}
+.rashan{
+    padding-left: 0px;
+}
+.address{
+    height: 800px;
+}
+.centerdiv{
+    margin-left: 70px;
+    margin-top: 480px;
+}
+.rightdiv{
+    margin-left: 70px;
+    margin-top: 594px;
+    height: 180px;
+}
+
+
+}
+
+
+@media only screen and (max-width:900px)
+{
+    header{
+        height: auto;
+    }
+
+    .first{
+        height:100px;
+    }
+    .second{
+        height: 100px;
+    }
+    .third{
+        height: 100px;
+    }
+}
+
+@media only screen and (max-width:480px){
+    .first{
+        height: 190px;
+
+    }
+    .second{
+        height: 190px;
+    }
+    .third{
+        padding-left: auto;
+        height: 190px;
+    }
+.gallery{
+    height: auto;
+}
+.mission{
+    height: 650px;
+}
+.project{
+    height: 650px;
+}
+.events{
+    
+    height: 650px;
+}
+.projectdivone{
+    margin-left: 30px;
+    width: 212px;
+    height: auto;
+}
+.projectdivtwo{
+    margin-left: 30px;
+    width: 212px;
+    height: auto;
+}
+.projectdivthree{
+    margin-left: 30px;
+    width: 212px;
+    height: auto;
+}
+.projectdivfour{
+    margin-left: 30px;
+    width: 212px;
+    height: auto;
+}
+.organimages{
+    padding-left: 4px;
+    padding-top: 8px;
+    width: 50px;
+    height: 40px;
+}
+.hep{
+    padding-left: 14px;
+    padding-top: 600px;
+}
+.projecttop{
+    padding-left: 30px;
+}
+}
+
+@media only screen and (max-width:320px){
+header{
+    height: 190px;
+}
+td{
+    padding-left: 0px;
+}
+
+.first{
+    height: 300px;
+}
+.second{
+height: 300px;
+}
+.third{
+    
+    height: 300px;
+}
+.thirdimg{
+    width: 109px;
+    padding-left: 10px;
+}
+.intro{
+    margin-left: 1px;
+}
+.spoon{
+    margin-left: 5px;
+}
+.family{
+    margin-left: 5px;
+}
+.doctor{
+    margin-left: 5px;
+}
+.degree{
+    margin-left: 5px;
+}
+.divone{
+    width: 270px;
+    margin-left: 18px;
+}
+.divtwo{
+    width: 270px;
+    margin-left: 18px;
+}
+.divthree{
+    width: 270px;
+    margin-left: 18px;
+}
+.divfour{
+    width: 270px;
+    margin-left: 18px;
+}
+.divfive{
+    width: 270px;
+    margin-left: 18px;
+}
+.divsix{
+    width: 270px;
+    margin-left: 18px;
+}
+.sixpics{
+    padding-left: 70px;
+    padding-right: 20px;
+}
+.divone1{
+    padding-left: 70px;
+}
+.divone2{
+    padding-left: 90px;
+}
+.divone3{
+    padding-left: 90px;
+}
+.projectdivone{
+    margin-left: 9px;
+}
+.projectdivtwo{
+    margin-left: 9px;
+}
+.projectdivthree{
+    margin-left: 9px;
+}
+.projectdivfour
+{ margin-left: 9px;
+
+}
+.leftdiv{
+    margin-left: 4px;
+}
+.centerdiv{
+    margin-left: 4px;
+}
+.rightdiv{
+    margin-left: 4px;
+}
+.foot{
+    height: 80px;
+}
+}
+
+@media only screen and (max-width:500px) {
+    .first{
+        height: 190px;
+
+    }
+    .second{
+        height: 190px;
+    }
+    .third{
+        padding-left: auto;
+        height: 190px;
+    }
+.gallery{
+    height: auto;
+}
+.mission{
+    height: 650px;
+}
+.project{
+    height: 650px;
+}
+.events{
+    
+    height: 650px;
+}
+.projectdivone{
+    margin-left: 9px;
+}
+.projectdivtwo{
+    margin-left: 9px;
+}
+.projectdivthree{
+    margin-left: 9px;
+}
+.projectdivfour
+{ margin-left: 9px;
+
+}
+.organimages{
+    padding-left: 4px;
+    padding-top: 8px;
+    width: 50px;
+    height: 40px;
+}
+.hep{
+    padding-left: 14px;
+    padding-top: 600px;
+}
+.projecttop{
+    padding-left: 30px;
+}
+}
